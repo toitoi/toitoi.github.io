@@ -666,6 +666,7 @@ section {
 .map-open:after {
     content: '';
     position: absolute;
+    visibility: hidden;
     left: 0;
     width: 20px;
     background: #101010;
