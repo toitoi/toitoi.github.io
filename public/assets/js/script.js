@@ -1,11 +1,3 @@
-/*
-    Template Name: Classic - Minimal CV/Personal Portfolio
-    Version: 1.0
-    Author: BulkStudio
-    Author URI: http://bulkstudio.com
-    Description: CV, Resume, Portfolio Minimal HTML5 Template
-*/
-
 (function($) {
 
     "use strict";
@@ -94,15 +86,6 @@
     $('.counter-data').counterUp({
         delay: 10,
         time: 2000
-    });
-
-    /* ---- Twitter, Change username ---- */
-    $('.tweet').twittie({
-        username: 'envato', // Change username
-        count: 1,
-        dateFormat: '%d/%b/%y',
-        template: '<strong class="date">{{date}}</strong> - {{tweet}} - {{screen_name}} ',
-        apiPath: 'assets/js/api/tweet.php'
     });
 
     /* ---- Menu Toggle Class ---- */
