@@ -1,11 +1,14 @@
-# toitoi.github.io
+# Toitoi Studio
 
-Draft Web CV
+Web CV
 ```
 https://toitoi.github.io/public/
+Do check me out [me profile].
 ```
 
 Event Timeline
 ```
 https://toitoi.github.io/timeline/
 ```
+
+[me profile]: https://toitoi.studio
