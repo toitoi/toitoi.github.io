@@ -1,14 +1,11 @@
 # Toitoi Studio
 
-Web CV
-```
-https://toitoi.github.io/public/
+### Web CV
 Do check me out [me profile].
-```
 
-Event Timeline
-```
-https://toitoi.github.io/timeline/
-```
+### Event Timeline
+Under construction
 
-[me profile]: https://toitoi.studio
+
+[me profile]: https://toitoi.github.io/public/
+[me timeline]: https://toitoi.github.io/timeline/
