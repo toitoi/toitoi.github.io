@@ -1,3 +1,4 @@
 gsap-public/
 public/node_modules/async/bower.json
 public/node_modules/
+/.idea/**
